@@ -10,6 +10,10 @@ function Home() {
       <Link href="/politicas">
         <a>Ir para politicas</a>
       </Link>
+
+      <Link href="/api/cep">
+        <a>Testar a API</a>
+      </Link>
     </div>
   );
 }
